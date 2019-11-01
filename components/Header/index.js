@@ -10,3 +10,5 @@
 // And add it to the DOM in the .header-container component
 
 function Header() {}
+
+const headerContainer = document.querySelector('.header');
